@@ -50,7 +50,8 @@ Atualmente, estou desenvolvendo minhas habilidades em programação, desenvolvim
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e VS Code"/>
 
-</div>
+</div> 
+
 ## `> github_analytics`
 
 <div align="center">
