@@ -51,18 +51,6 @@ Atualmente, estou desenvolvendo minhas habilidades em programação, desenvolvim
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e VS Code"/>
 
 </div>
-
-## `> featured_projects`
-
-### Consulta de Frotas
-
-Projeto de desenvolvimento web disponível no GitHub.
-
-- **Objetivo:** desenvolver uma aplicação relacionada à consulta de frotas.
-- **Repositório:** [consulta-frotas-inicial](https://github.com/anasantosb/consulta-frotas-inicial)
-
-> Dica: se esse projeto for de sua autoria ou colaboração, vale explicar aqui quais funcionalidades você implementou e quais tecnologias utilizou.
-
 ## `> github_analytics`
 
 <div align="center">
